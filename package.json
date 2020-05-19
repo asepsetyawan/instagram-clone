@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "16.4.0",
     "react-native": "0.55.4",
-    "react-native-navigation": "^1.1.328"
+    "react-native-navigation": "^6.6.2"
   },
   "devDependencies": {
     "babel-jest": "23.0.1",
